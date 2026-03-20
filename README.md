@@ -6,6 +6,10 @@ e repositórios remotos com GitHub.
 No final do curso será abordado um tópico, que irei trabalhar com GitFlow
 e Visual Studio Code.
 
+Link do curso:
+
+[Curso Git 2025](https://youtube.com/@teomewhy)
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
