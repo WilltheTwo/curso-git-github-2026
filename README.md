@@ -10,6 +10,9 @@ Link do curso:
 
 [Curso Git 2025](https://youtube.com/@teomewhy)
 
+Conteúdo completo e explicativo sobre versionamento e gerenciamento em Git e Github.
+Para projetos profissionais e pessoais.
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
